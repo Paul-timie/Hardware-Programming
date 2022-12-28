@@ -1,1 +1,1 @@
-
+In this project, you will be creating a QR Code like 2D barcode called QR-lite. The QR-lite is a 2D barcode that can encode numbers up to 8 digits long that produce a similar-looking image to a QR Code. To do this project you will be using the ARTY-S7 FPGA, the 7-segment led module, the extra 4 switch module, a PC to receive information, a terminal serial application, and Excel.
