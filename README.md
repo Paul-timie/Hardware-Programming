@@ -16,3 +16,6 @@ For the simulation you will be showing 4 examples of add and 4 examples of subtr
  # VHDL code for Moore FSM 
 You will code up a Moore FSM that can detect the sequence 100 or 010. The output z=1 if the sequence is found.
 You need the FSM, test bench, and screenshot of the simulation.Test using the following input 1, 0, 0, 0, 1, 0, 1, 0, 0.
+# VHDL for QR code creation
+
+In this project, you will be creating a QR Code like 2D barcode called QR-lite. The QR-lite is a 2D barcode that can encode numbers up to 8 digits long that produce a similar-looking image to a QR Code. To do this project you will be using the ARTY-S7 FPGA, the 7-segment led module, the extra 4 switch module, a PC to receive information, a terminal serial application, and Excel.
