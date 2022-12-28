@@ -1,4 +1,4 @@
-# Hardware-Programming
+# Hardware Description Language - VHDL-Programming | FPGA
  Hardware description Language
  # VHDL code for 4 bits ALU
  Here are sub designs you must create
